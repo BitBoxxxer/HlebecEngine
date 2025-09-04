@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Hlebec")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6760884adb88c34e30adb7adb952fd076626ea4d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5685e3c9a1d489e8d25063133c89d2667325488f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Hlebec")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Hlebec")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
