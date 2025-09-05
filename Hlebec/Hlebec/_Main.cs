@@ -62,11 +62,6 @@ public class Program
         }
     }
 
-    private static void KeyDown(IKeyboard keyboard, Key key, int keyCode)
-    {
-        if (key == Key.Escape)
-            _window.Close();
-    }
 
     private static void OnUpdate(double deltaTime)
     {
@@ -79,6 +74,16 @@ public class Program
 
         _gl.BindVertexArray(_vao);
         _gl.DrawArrays(PrimitiveType.Triangles, 0, 3);
+    }
+
+    private static void OnClose() // when the window is closed engine should clean up resources
+    {
+        
+    }
+    private static void KeyDown(IKeyboard keyboard, Key key, int keyCode)
+    {
+        if (key == Key.Escape)
+            _window.Close();
     }
 
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EQCnSAsloko=",
+  "dgSpecHash": "8QSPJbQ+sp8=",
   "success": true,
-  "projectFilePath": "d:\\GIT_HUB\\HlebecEngine\\Hlebec\\Hlebec\\Hlebec.csproj",
+  "projectFilePath": "D:\\GIT_HUB\\HlebecEngine\\Hlebec\\Hlebec\\Hlebec.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Super Director\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\Super Director\\.nuget\\packages\\microsoft.dotnet.platformabstractions\\3.1.6\\microsoft.dotnet.platformabstractions.3.1.6.nupkg.sha512",
