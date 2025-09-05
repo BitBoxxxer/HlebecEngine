@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Hlebec")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7f3c3fa686f8f78ada92ec6b94c0de8f24e38157")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+64077121aa608878d0a72273588db92c0cf4159c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Hlebec")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Hlebec")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

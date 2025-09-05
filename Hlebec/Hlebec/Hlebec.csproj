@@ -5,6 +5,7 @@
     <TargetFramework>net9.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks> <!-- To allow unsafe code for pointers - Kasey -->
   </PropertyGroup>
 
   <ItemGroup>
