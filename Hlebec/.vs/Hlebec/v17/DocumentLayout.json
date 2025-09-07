@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\GIT_HUB\\HlebecEngine\\Hlebec\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{401FDA6C-5E3B-488C-B38F-F4030CDD6811}|Hlebec\\Hlebec.csproj|d:\\git_hub\\hlebecengine\\hlebec\\hlebec\\hlebec.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{401FDA6C-5E3B-488C-B38F-F4030CDD6811}|Hlebec\\Hlebec.csproj|solutionrelative:hlebec\\hlebec.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+      "AbsoluteMoniker": "D:0:0:{401FDA6C-5E3B-488C-B38F-F4030CDD6811}|Hlebec\\Hlebec.csproj|d:\\git_hub\\hlebecengine\\hlebec\\hlebec\\_main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{401FDA6C-5E3B-488C-B38F-F4030CDD6811}|Hlebec\\Hlebec.csproj|solutionrelative:hlebec\\_main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\GIT_HUB\\HlebecEngine\\Hlebec\\Hlebec\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,13 +23,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Hlebec",
-              "DocumentMoniker": "D:\\GIT_HUB\\HlebecEngine\\Hlebec\\Hlebec\\Hlebec.csproj",
-              "RelativeDocumentMoniker": "Hlebec\\Hlebec.csproj",
-              "ToolTip": "D:\\GIT_HUB\\HlebecEngine\\Hlebec\\Hlebec\\Hlebec.csproj",
-              "RelativeToolTip": "Hlebec\\Hlebec.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-09-03T16:33:53.445Z",
+              "Title": "_Main.cs",
+              "DocumentMoniker": "D:\\GIT_HUB\\HlebecEngine\\Hlebec\\Hlebec\\_Main.cs",
+              "RelativeDocumentMoniker": "Hlebec\\_Main.cs",
+              "ToolTip": "D:\\GIT_HUB\\HlebecEngine\\Hlebec\\Hlebec\\_Main.cs",
+              "RelativeToolTip": "Hlebec\\_Main.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T08:55:55.711Z",
               "EditorCaption": ""
             },
             {

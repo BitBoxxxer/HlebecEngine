@@ -39,9 +39,14 @@ public class Program
 
         _vao = _gl.GenVertexArray();
         float[] vertices = {
-            -0.5f, -0.5f, 0.0f,
-             0.5f, -0.5f, 0.0f,
-             0.0f,  0.5f, 0.0f
+            // Первый треугольник
+            0.5f,  0.5f, 0.0f,  // Верхний правый угол
+            0.5f, -0.5f, 0.0f,  // Нижний правый угол
+            -0.5f,  0.5f, 0.0f,  // Верхний левый угол
+            // Второй треугольник
+            0.5f, -0.5f, 0.0f,  // Нижний правый угол
+            -0.5f, -0.5f, 0.0f,  // Нижний левый угол
+            -0.5f,  0.5f, 0.0f   // Верхний левый угол
         };
         _gl.BindVertexArray(_vao);
 
@@ -51,9 +56,9 @@ public class Program
         fixed (float* buf = vertices)
             _gl.BufferData(BufferTargetARB.ArrayBuffer, (nuint) (vertices.Length * sizeof(float)), buf, BufferUsageARB.StaticDraw);
 
-        /* _gl.BufferData<float>(BufferTargetARB.ArrayBuffer, (uint)(vertices.Length * sizeof(float)), vertices, BufferUsageARB.StaticDraw);
+        //_gl.BufferData<float>(BufferTargetARB.ArrayBuffer, (uint)(vertices.Length * sizeof(float)), vertices, BufferUsageARB.StaticDraw);
         _gl.VertexAttribPointer(0, 3, VertexAttribPointerType.Float, false, 3 * sizeof(float), 0);
-        _gl.EnableVertexAttribArray(0); */ // Kasey: This is a basic example of the projection of a two-dimensional figure.
+        _gl.EnableVertexAttribArray(0); // Kasey: This is a basic example of the projection of a two-dimensional figure.
 
         for (int i = 0; i < input.Keyboards.Count; i++)
         {
